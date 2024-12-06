@@ -22,7 +22,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 }
 
 /**
- * depth _ Returns given depyh
+ * depth -  Returns given depth
  *
  * @tree: Pointer to node to measure the depth of.
  *
